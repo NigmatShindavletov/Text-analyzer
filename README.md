@@ -25,6 +25,7 @@
 
 ```bash
 pip install customtkinter
+```
 
 Запустите программу:
 
